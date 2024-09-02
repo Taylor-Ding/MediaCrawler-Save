@@ -1,6 +1,12 @@
+<<<<<<< Updated upstream
 httpx==0.24.0
 Pillow==9.5.0
 playwright==1.45.1
+=======
+httpx==0.26.0
+Pillow==10.0.1
+playwright==1.33.0
+>>>>>>> Stashed changes
 tenacity==8.2.2
 tornado==6.3.2
 PyExecJS==1.5.1
